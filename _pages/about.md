@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a PhD Candidate in the Department of Economics at the University of Michigan.
+I am a PhD Candidate in the [Department of Economics at the University of Michigan](https://lsa.umich.edu/econ).
 
 My main fields of research are Public Finance and Microeconomic Theory with an emphasis on tax evasion and enforcement.
 
