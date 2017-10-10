@@ -16,4 +16,4 @@ My main fields of research are Public Finance and Microeconomic Theory with an e
 
 I will be at the [ASSA meeting in Philadelphia in January 2018](https://www.aeaweb.org/conference/). 
 
-[CV](/files/cv.pdf)
+[CV](https://drive.google.com/file/d/0B2vkoGBXMhclU3AtTlhnNjJWekU/view)
