@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yunus Emre Sahin"
   avatar           : "profile.png"
-  bio              : "Your bio"
+  bio              : "AT"
   location         : "Ann Arbor"
   employer         :
   googlescholar    : "http://yunusemresahin.com"
@@ -96,7 +96,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
+  lastfm           : "empty_words_"
   linkedin         :
   orcid            :
   pinterest        :
