@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Yunus Emre Sahin"
+name                     : &name "Yeliz Kacamak"
 description              : &description "personal description"
 url                      : https://sahiny.github.io/ysahin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,8 +81,8 @@ author:
   name             : "Yeliz Kacamak"
   avatar           : "Kacamak_Yeliz.jpg"
   bio              :
-  location         : "Ann Arbor"
-  employer         :
+  location         :
+  employer         : "University of Michigan"
   googlescholar    :
   email            : "ykacamak@umich.edu"
   uri              :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SahinYunusemre"
+  twitter          :
   vine             :
   weibo            :
   xing             :
